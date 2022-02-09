@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5078-168A
+
+ Directory of C:\Users\chaithu\OneDrive\Desktop\my project
+
+09-02-22  12:14 PM    <DIR>          .
+09-02-22  12:14 PM    <DIR>          ..
+09-02-22  12:14 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  67,571,703,808 bytes free
